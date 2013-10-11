@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is an area you work in off the master branch. The master branch is the main branch. working in new branches makes it easy to track features, fix bugs, work on new versions of software etc. 
