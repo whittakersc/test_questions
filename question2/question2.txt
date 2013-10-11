@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+the upstream remote is the repository you are pulling from or pushing to. The upstream generally refers to the original repo that you have forked. you will you upstream to fetch from this original repository. 
